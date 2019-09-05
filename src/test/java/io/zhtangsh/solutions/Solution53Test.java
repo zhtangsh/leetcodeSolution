@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 public class Solution53Test {
 
     @Test
-    public void maxSubarray() {
+    public void test1() {
         int[] nums = new int[]{
                 -2, 1, -3, 4, -1, 2, 1, -5, 4
         };
